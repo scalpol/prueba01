@@ -13,7 +13,8 @@
 }
 
 .titles {
-  font-size: 3em;
+  font-size: 4em;
+  font-family: 'Raleway'
 }
 
 @media (max-width: 1200px) {
@@ -32,8 +33,23 @@
   padding-right: 40px;
   position: fixed;
   right: 0px;
+  font-family: 'Raleway'
 }
 
 .bajada {
   text-align: justify;
+}
+
+.banner_ {
+  font-size: 6rem;
+}
+
+.misiones {
+  font-size: 2em;
+  font-family: 'Kavivanar';
+  text-align: center;
+}
+
+.nostros {
+  border: solid 2px grey;
 }
