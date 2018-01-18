@@ -8,13 +8,14 @@
 }
 
 .toppadding {
-  padding-top: 100px;
+  padding-top: 60px;
   padding-bottom: 50px;
 }
 
 .titles {
   font-size: 4em;
-  font-family: 'Raleway'
+  font-family: 'Raleway';
+  padding-top: 50px;
 }
 
 @media (max-width: 1200px) {
@@ -52,4 +53,21 @@
 
 .nostros {
   border: solid 2px grey;
+  border-radius: 5%;
+}
+
+.monumento {
+  max-width: 200px;
+}
+
+.quienesomos {
+  font-family: 'Raleway'
+}
+
+.colorfondo {
+  background-color: rgb(245, 240, 255);
+}
+
+.sombra {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
