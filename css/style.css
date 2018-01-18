@@ -1,0 +1,39 @@
+.paddingtopbottom {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.marginbottom {
+  margin-bottom: 15px;
+}
+
+.toppadding {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.titles {
+  font-size: 3em;
+}
+
+@media (max-width: 1200px) {
+  .menuantiguo {
+    display: none;
+  }
+}
+
+.margins_md {
+  margin-bottom: 30px;
+}
+
+.menuantiguo {
+  text-align: right;
+  padding-top: 70px;
+  padding-right: 40px;
+  position: fixed;
+  right: 0px;
+}
+
+.bajada {
+  text-align: justify;
+}
